@@ -61,7 +61,6 @@
 		max-width: 240px;
 		margin: 0 auto;
 		height: 100vh;
-		background-color: lavender;
 	}
 
 	h1 {

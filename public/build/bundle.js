@@ -3441,7 +3441,7 @@ var app = (function () {
     			div0 = element("div");
     			div1 = element("div");
     			create_component(image.$$.fragment);
-    			attr_dev(div1, "class", "card-image svelte-1ugig8p");
+    			attr_dev(div1, "class", "card-image svelte-1y9a05");
     			add_location(div1, file$6, 36, 5, 1037);
     			attr_dev(div0, "slot", "media");
     			add_location(div0, file$6, 35, 4, 1013);
@@ -3739,7 +3739,7 @@ var app = (function () {
     			add_location(p3, file$6, 21, 1, 545);
     			set_style(p4, "color", "var(--color-secondary-500)");
     			add_location(p4, file$6, 22, 1, 629);
-    			attr_dev(main, "class", "svelte-1ugig8p");
+    			attr_dev(main, "class", "svelte-1y9a05");
     			add_location(main, file$6, 17, 0, 286);
     		},
     		l: function claim(nodes) {
