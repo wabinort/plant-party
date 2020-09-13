@@ -1,0 +1,17 @@
+{
+    "plants": 
+        [{
+            "name": "Spider Plant",
+            "genus": "Chlorophytum comosum",
+            "photo": "/plant-images/2EB31E87-0C0D-4AF6-A50F-DCC5F8A440C5.jpeg",
+            "reference": "https://en.wikipedia.org/wiki/Chlorophytum_comosum"
+        },
+        {
+            "name": "Blue Star Fern",
+            "genus": "Phlebodium aureum",
+            "photo": "/plant-images/79F632D2-D4B6-4B2A-9B0E-E62DACDFC04F.jpeg",
+            "reference": "https://en.wikipedia.org/wiki/Phlebodium_aureum"
+        }
+    ]
+    
+}
