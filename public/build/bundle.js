@@ -3479,7 +3479,7 @@ var app = (function () {
     	return block;
     }
 
-    // (47:6) <Button href="{plant.reference}" block>
+    // (47:6) <Button href="{plant.reference}" block classes="bg-info-500">
     function create_default_slot_1$1(ctx) {
     	let t;
 
@@ -3499,7 +3499,7 @@ var app = (function () {
     		block,
     		id: create_default_slot_1$1.name,
     		type: "slot",
-    		source: "(47:6) <Button href=\\\"{plant.reference}\\\" block>",
+    		source: "(47:6) <Button href=\\\"{plant.reference}\\\" block classes=\\\"bg-info-500\\\">",
     		ctx
     	});
 
@@ -3517,6 +3517,7 @@ var app = (function () {
     			props: {
     				href: /*plant*/ ctx[1].reference,
     				block: true,
+    				classes: "bg-info-500",
     				$$slots: { default: [create_default_slot_1$1] },
     				$$scope: { ctx }
     			},

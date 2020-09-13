@@ -44,7 +44,7 @@
 				</div>
 				<div slot="actions">
 					<div class="p-2">
-						<Button href="{plant.reference}" block>ok learn</Button>
+						<Button href="{plant.reference}" block classes="bg-info-500">ok learn</Button>
 					</div>
 				</div>
 			</Card.Card>
